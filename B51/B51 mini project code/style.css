@@ -34,25 +34,7 @@ body{
     left:17%;
     height:60%; 
 }
-/*.register1_btn.activeInfo{
-    position: fixed;
-    background-color: #fff;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 
-                0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
 
-.register_btn.activeInfo{
-    position: fixed;
-    background-color: #fff;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 
-                0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}*/
 .register_btn{
      position: fixed;
     top: 58%;
